@@ -1,0 +1,21 @@
+menu:
+  learn-more: Learn more
+
+index:
+  learn-more: Learn more
+
+page:
+  contents: Contents
+  back_to_top: Back to Top
+  improve: Improve this doc
+  prev: Prev
+  next: Next
+  last_updated: "Last updated: %s"
+
+sidebar:
+  learn-more:
+    project: Project
+    about: About
+    overview: Overview
+    presentations: Presentations
+    software: Software
