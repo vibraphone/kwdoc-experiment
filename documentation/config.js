@@ -1,5 +1,5 @@
 module.exports = {
-  baseUrl: '/kwdoc-experiment',
+  baseUrl: '',
   work: './build-tmp',
   config: {
     title: 'sensei',
@@ -8,7 +8,7 @@ module.exports = {
     author: 'SENSEI',
     timezone: 'UTC',
     url: 'https://vibraphone.github.io/kwdoc-experiment',
-    root: '/kwdoc-experiment/',
+    root: '/',
     github: 'vibraphone/kwdoc-experiment',
   }
 };
