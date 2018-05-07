@@ -1,6 +1,6 @@
 learn-more:
   project:
-    overview: /learn-more/index.html
-    about: /learn-more/about.html
-    presentations: /learn-more/presentations.html
-    software: /learn-more/software.html
+    overview: index.html
+    about: about.html
+    presentations: presentations.html
+    software: software.html
