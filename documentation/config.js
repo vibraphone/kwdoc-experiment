@@ -11,5 +11,6 @@ module.exports = {
     url: 'https://vibraphone.github.io/kwdoc-experiment',
     root: '/',
     github: 'vibraphone/kwdoc-experiment',
+    authorLink: 'https://www.kitware.com/'
   }
 };
